@@ -15,7 +15,7 @@ Module 5
   * Ridership demand is higher in urban areas, whereas it is lowest in rural areas.
   * Drivers in urban cities outnumber those in suburban cities by more than 4 times
   * With roughly 4.5 times the revenue, suburban cities have 6 times the number of drivers as rural cities.
-  * The average fare per ride and driver is greatest in rural areas. 
+  * The average fare per ride and driver is greatest in rural cities. 
   * The summary data reveals that when there is a higher ratio of drivers to riders, fare revenue is higher per city type. 
 #### The multiple-line chart "Total Fare by City Type"
 ![image](https://user-images.githubusercontent.com/93439516/145664105-ab39d9fd-43e1-45f0-b08a-265ed02f59b7.png)
