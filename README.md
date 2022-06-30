@@ -2,11 +2,12 @@
 Module 5
 # Overview of the PyBer Analysis
 ## Purpose of the Project
-#### The purpose of the project is to conduct exploratory analysis of Pyber ride-sharing data in order to acquire a better knowledge of ridership and fare metrics by Pyber operating cities. Creating rideshare data visualizations for PyBer to aid in improving access to ride-sharing services and determining cost in underdeveloped areas.
+The purpose of the project is to conduct exploratory analysis of Pyber ride-sharing data in order to acquire a better knowledge of ridership and fare metrics by Pyber operating cities. Creating rideshare data visualizations for PyBer to aid in improving access to ride-sharing services and determining cost in underdeveloped areas.
 
 ## Resources
 * Data Source: city_data.csv, ride_data.csv, PyBer_ride_data.csv
 * Source Code: PyBer_Challenge_starter_code
+* Software: Python, Jupyter Notebook
 
 ## Results 
 #### Statistics overview and summary based on the analysis and aggregation of PyBers ride sharing data.
